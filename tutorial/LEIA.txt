@@ -1,0 +1,10 @@
+ta funcionando legal, porem ainda eu preciso verificar
+que eu neste app eu estou treinando para que identifique pessoas
+que fazem serviço, no entanto, ele esta achando quase todo mundo, logo
+eu preciso achar mais caracteriscas para o algoritmo aprender
+quem é de serviços
+
+
+
+para fazer predicções estou usando como teste o mesclado
+
